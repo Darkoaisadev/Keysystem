@@ -1,0 +1,7 @@
+-- LuaForge build 8oz4ck3i
+local function __LF_D(t)local s="" for i=1,#t do s=s..string.char(t[i]) end return s end
+local _LF_cDamCpmZ = __LF_D({68,97,114,107,111,97})
+local _LF_YzyxQBzg = __LF_D({72,101,108,108,111,44,32}) .. _LF_cDamCpmZ
+local _LF_fr8Ct6GZ = (25+0)
+print(_LF_YzyxQBzg)
+print(__LF_D({68,97,109,97,103,101,58}), _LF_fr8Ct6GZ)
